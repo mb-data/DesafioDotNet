@@ -72,7 +72,7 @@ Link do Figma: https://www.figma.com/file/kgxxK5TMfNyqMLFIMqBx2k/DesafioDotNet?n
 
 Importante
 1. É permitido a utilização de pacotes de UI
-2. Utilizar WebForms, JQuery e boas práticas é importante para o projeto
+2. Utilizar JQuery e boas práticas é importante para o projeto
 
 ### Pontos Extras
 - [ ] Fazer função de editar e deletar na tela
