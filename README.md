@@ -62,9 +62,11 @@ Faça um website com ASP.Net. Esse site deve exibir uma lista de produtos de uma
 ### Design da tela
 Exiba a seguinte tela, com ``Nome, Preço, Marca, Data de Criação e Data de Modificação``. Ordene por ordem de criação.
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/830261/169680671-c7e5d740-fa82-4e0e-909e-aa9c5e573967.png">
+![image](https://user-images.githubusercontent.com/30670086/172623617-00692e3c-8849-473f-9145-b147b488c368.png)
 
-Link do Figma: https://www.figma.com/file/T7afvsovDPP9IGPZqLb9us/Desafio-Khipo?node-id=0%3A1
+![image](https://user-images.githubusercontent.com/30670086/172623809-70109ad7-b279-4221-b126-db038a7ba75d.png)
+
+Link do Figma: https://www.figma.com/file/kgxxK5TMfNyqMLFIMqBx2k/DesafioDotNet?node-id=0%3A1
 
 
 
