@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDotNetFramework", "ApiDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDotNetFramework.Tests", "ApiDotNetFramework.Tests\ApiDotNetFramework.Tests.csproj", "{939D1ED1-8075-45EC-BA70-067AA23339DD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{61FA303C-C290-4F9C-88C5-FE8A5CC169D7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
