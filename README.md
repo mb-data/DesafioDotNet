@@ -13,6 +13,15 @@ Retorna todos os produtos em lista
 ``GET /api/v1/products/:productId``
 Retorna apenas o produto do productId
 
+``POST /api/v1/products``
+Salva o produto e retorna ele
+
+``PUT /api/v1/products/:productId``
+Modifica o produto e retorna o novo produto
+
+``DELETE /api/v1/products/:productId``
+Deleta o produto
+
 Exemplo de produtos:
 ```
 [
@@ -50,23 +59,3 @@ Observações
 ## Etapa 2
 
 Conectar a API com um Gateway em VB.NET
-
-# Desafio 2
-
-## Etapa 1
-
-Utilizando o .Net Core (https://docs.microsoft.com/pt-br/dotnet/core/introduction) crie uma ``API Rest``. Essa API deverá ser capaz de CRUD em um banco de dados de ``Produtos``. Utilizar procedure para os GETs com o banco de dados.
-
-``GET /api/v1/products``
-Retorna todos os produtos em lista
-
-``GET /api/v1/products/:productId``
-Retorna apenas o produto do productId
-
-Observações
-1. É essencial que seja conectado em um banco de dados SQL Server.
-2. Não permita dois ou mais produtos com o mesmo Id, ele deve ser incremental
-
-## Etapa 2 (Opcional)
-
-Criar uma exibição em VB 6 com os dados provindos da API em um formulário (table).
