@@ -3,8 +3,6 @@ Desafio de contratação Khipo. Realize um fork deste repositório e faça as et
 
 # Desafio 1
 
-## Etapa 1 
-
 Utilizando o .Net Framework (https://docs.microsoft.com/pt-br/dotnet/framework/get-started/overview) crie uma ``API Rest``. Essa API deverá ser capaz de CRUD em um banco de dados de ``Produtos``. Utilizar procedure para os GETs com o banco de dados.
 
 ``GET /api/v1/products``
@@ -55,7 +53,3 @@ Exemplo de produtos:
 Observações
 1. É necessario utilizar ADO.Net (https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/)
 2. É essencial que seja conectado em um banco de dados SQL Server.
-
-## Etapa 2
-
-Conectar a API com um Gateway em VB.NET
