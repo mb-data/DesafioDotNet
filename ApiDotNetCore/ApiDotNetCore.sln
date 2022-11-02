@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDotNetCore", "ApiDotNetCore\ApiDotNetCore.csproj", "{BB23EC7D-4FBC-4C41-BC69-9ACB857B13AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDotNetCoreTest", "ApiDotNetCoreTest\ApiDotNetCoreTest.csproj", "{4C55C1FC-325E-48BA-9165-895F1AD71A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB23EC7D-4FBC-4C41-BC69-9ACB857B13AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB23EC7D-4FBC-4C41-BC69-9ACB857B13AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB23EC7D-4FBC-4C41-BC69-9ACB857B13AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB23EC7D-4FBC-4C41-BC69-9ACB857B13AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C55C1FC-325E-48BA-9165-895F1AD71A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C55C1FC-325E-48BA-9165-895F1AD71A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C55C1FC-325E-48BA-9165-895F1AD71A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C55C1FC-325E-48BA-9165-895F1AD71A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02115DE-0A0B-420B-8996-41E52FD4A721}
+	EndGlobalSection
+EndGlobal
