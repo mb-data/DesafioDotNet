@@ -8,11 +8,13 @@ namespace API.Controllers
 {
     public class HomeController : Controller
     {
+        [Route("/")]
+        [Route("/docs")]
+        [Route("/swagger")]
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
-
-            return View();
+            return new RedirectResult("~/swagger");
         }
     }
 }
+
